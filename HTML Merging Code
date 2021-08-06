@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>combine pages</title>
+  <title>Merging Pages!</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="CSS code22.css">
     <script src="jquery-3.6.0.min.js"></script>
 <style>
 *{
@@ -231,12 +231,11 @@ $(document).ready(function () {
 <span></span>
 </div>
 </td>
-<td>
-                  
-     <br>
-     <br>
-     <br>
-     <br>
+<td>            
+<br>
+<br>
+<br>
+<br>
  <div class="outer button">
  <button>Right!</button>
  <span></span>
