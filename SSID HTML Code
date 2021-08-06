@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+ <meta charset="utf-8">
+ <title>LOGGING IN</title>
+ <link rel="stylesheet" href="CSS code.css">
+</head>
+<body>
+ <div class="login-form">
+ <div class="text">
+  LOGIN
+ </div>
+ <form>
+<div class="field">
+ <i class="fas fa-wifi"></i>
+ <input type="text" placeholder="SSID">
+ </div>
+ <div class="field">
+ <div class="fas fa-lock"></div>
+ <input type="password" placeholder="Password">
+ </div>
+ <button>
+<a href="HTML Merging Code.html">log in</a>
+ </button>
+<div class="link">
+ Did you forget your password?
+<a href="#">click here Please</a>
+ </div>
+ </form>
+ </div>
+ </body>
+ </html>
