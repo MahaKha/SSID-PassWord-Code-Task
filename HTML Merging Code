@@ -226,7 +226,7 @@ $(document).ready(function () {
 <td> 
 <br><br><br><br>              
 <div class="outer circle">
-<button>توقف</button>
+<button>Stop!</button>
 <span></span>
 <span></span>
 </div>
